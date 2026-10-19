@@ -58,10 +58,10 @@ No account, no analytics, no server of its own. It asks for:
   from `a.espncdn.com`.
 - **FotMob's match data** (`www.fotmob.com`, `images.fotmob.com`) for the
   pitch, player ratings, shot maps, injuries and the weather.
-
 - **GitHub** (`api.github.com`, `github.com`), once a day, to see whether a
-  newer MatchNotch is out, and to download it when you click **Update**. Turn
-  it off in Settings → General → Check for updates.
+  newer MatchNotch is out. A new version downloads in the background and
+  installs only when you click **Update**. Turn it off in Settings → General
+  → Check for updates.
 
 It polls fast only while a match is on. Your teams and settings stay on your
 Mac.
